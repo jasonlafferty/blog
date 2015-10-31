@@ -4,3 +4,9 @@ Started GET "/" for ::1 at 2015-10-27 21:10:30 +0000
 Processing by Rails::WelcomeController#index as HTML
   Rendered /Users/jason/.rvm/gems/ruby-2.0.0-p645/gems/railties-4.2.4/lib/rails/templates/rails/welcome/index.html.erb (1.0ms)
 Completed 200 OK in 15ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-10-27 21:36:41 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendered /Users/jason/.rvm/gems/ruby-2.0.0-p645@blog/gems/railties-4.2.4/lib/rails/templates/rails/welcome/index.html.erb (1.4ms)
+Completed 200 OK in 61ms (Views: 51.9ms | ActiveRecord: 0.0ms)
